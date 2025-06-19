@@ -1,20 +1,23 @@
 body {
-  background-color: #ffb74d; /* Orange background */
+  background-color: #ffb74d;
+  /* Orange background */
   margin: 0;
   min-height: 100vh;
   font-family: Arial, sans-serif;
 }
 
 .form-container {
-  background: #fff; /* White box */
+  background: #fff;
+  /* White box */
   max-width: 600px;
   margin: 30px auto;
   padding: 40px 30px 30px 30px;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-h1, h3 {
+h1,
+h3 {
   text-align: center;
   margin: 0 0 10px 0;
 }
